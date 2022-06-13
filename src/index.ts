@@ -18,6 +18,6 @@ export default async function main(onlyCounter = false) {
 }
 
 // TODO: Comment this if you are going to use the server.ts entry point (npm start)
-main()
-  .then(() => {})
-  .catch((e) => {console.error(e)})
+// main()
+//   .then(() => {})
+//   .catch((e) => {console.error(e)})
